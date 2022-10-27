@@ -8,3 +8,4 @@ Uses only a static page 'home.html' to present information.
 Passes calorie data through djang-mathfilters identify how much work is needed to burn that amount of calorie.
 
 # MVC Framework Control Flow
+![image](https://user-images.githubusercontent.com/75659218/198412497-6960cfb7-06b5-47b6-bfd7-228d5ed21cab.png)
